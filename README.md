@@ -1,0 +1,5 @@
+# AREMIOLERPOD.EXE
+aremiolerpod.exe is a GDI malware that destroys the MBR.
+DONT RUN ON REAL COMPUTERS! ONLY SAFETY VERSIONS.
+THE OWNER IS NOT RESPONSIBLE FOR DEVICE DAMAGE.
+Compatible with Dev-C++.
